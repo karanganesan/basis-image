@@ -10,3 +10,7 @@ Tag &lt;basis-img>
 <script src="https://basis-image.karan.pro/build/bundle.js" />
 <basis-img src="image.basis" />
 ```
+
+# Codepen Example 
+
+https://codepen.io/karanganesan/pen/xxGawYp :)
