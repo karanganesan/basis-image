@@ -5,7 +5,6 @@
   export let src = "";
 
   onMount(() => {
-    console.log(canvasElement);
     setTimeout(() => {
       BASIS({
         onRuntimeInitialized: () => {
