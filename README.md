@@ -1,8 +1,8 @@
 # Basis Image (Custom Element)
 
-like <img> but supports .basis files using Web Component
+like &lt;img> but supports .basis files using Web Component
 
-Tag <basis-img>
+Tag &lt;basis-img>
 
 # Usage
 
