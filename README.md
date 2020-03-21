@@ -7,6 +7,6 @@ Tag &lt;basis-img>
 # Usage
 
 ```html
-<script src="https://unpkg.com/basis-image" />
+<script src="https://basis-image.karan.pro/build/bundle.js" />
 <basis-img src="image.basis" />
 ```
